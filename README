@@ -1,0 +1,5 @@
+O arquivo ResNet50 contém o código do modelo pré-treinado e também as funções e configurações utilizadas para o experimento
+
+O arquivo folhas de café possui o banco de dados utilizado separado em 3 classes diferentes
+
+Para que seja possível rodar o código, colocar ele no google colab e dar upload na base de dados no drive também, e depois alterar o caminho de diretório para o caminho da sua pasta no google drive, levando ela a base de dados do trabalho
